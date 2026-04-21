@@ -1,0 +1,7 @@
+.movie-item-box {
+    border-width: 1px;
+    border-style: solid;
+    border-color: aquamarine;
+    border-radius: 5%;
+    width: 260px;
+}
